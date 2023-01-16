@@ -1,0 +1,24 @@
+.elementor-164 .elementor-element.elementor-element-056b9e7:not(.elementor-motion-effects-element-type-background),
+.elementor-164 .elementor-element.elementor-element-056b9e7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #f8f5ef;
+    background-image: url("http://demo2.themelexus.com/liquory/wp-content/uploads/2022/07/breadcrumb02.png");
+    background-position: bottom center;
+    background-repeat: no-repeat
+}
+
+.elementor-164 .elementor-element.elementor-element-056b9e7 {
+    transition: background .3s, border .3s, border-radius .3s, box-shadow .3s;
+    padding: 55px 30px 59px
+}
+
+.elementor-164 .elementor-element.elementor-element-056b9e7>.elementor-background-overlay {
+    transition: background .3s, border-radius .3s, opacity .3s
+}
+
+.elementor-164 .elementor-element.elementor-element-dc7c74e .woocommerce-breadcrumb {
+    text-align: center
+}
+
+.elementor-164 .elementor-element.elementor-element-dc7c74e .liquory-woocommerce-title {
+    text-align: center
+}
